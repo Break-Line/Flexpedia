@@ -11,4 +11,4 @@ _Without using a PHP framework or third party packages of any sort, build a PHP 
 - Set the payment status of each invoice via the interface to paid / unpaid. 
 
 I created the application using XAMPP with PHP 7 and MySQL database. 
-To start the application, load the _"**database.sql**"_ file in your new database called _"**exercise_fp**"_. Then you can start the application from **localhost / myfolder / index.php** from your browser and click on "**Home**" button.
+To start the application, load the _"**/_db_creation/database.sql**"_ file in your new database called _"**exercise_fp**"_. Then you can start the application from **localhost / myfolder / index.php** from your browser and click on "**Home**" button on left corner.
